@@ -4,7 +4,6 @@ import { FiPower, FiTrash2 } from 'react-icons/fi';
 import './styles.css';
 
 import logoImg from '../../assets/logo.svg';
-import heroesImg from '../../assets/heroes.png';
 
 export default function Profile() {
     return (
